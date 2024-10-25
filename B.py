@@ -28,3 +28,6 @@ class B:
 
     def mb2(self) -> None:
         print("Método MB2")
+
+    def mb3(self) -> None:
+        print("Método MB3")
