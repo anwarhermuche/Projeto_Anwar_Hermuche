@@ -28,3 +28,6 @@ class A:
 
     def ma2(self) -> None:
         print("Método MA2")
+
+    def ma3(self) -> None:
+        print("Alteração na classe A a partir do clone")
