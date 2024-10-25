@@ -31,3 +31,6 @@ class A:
 
     def ma3(self) -> None:
         print("Alteração na classe A a partir do clone")
+    
+    def getSoma(a : int, b : int) -> int:
+        return a + b
