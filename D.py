@@ -9,3 +9,6 @@ class D:
 
     def md2(self) -> None:
         print("Método MD2")
+
+    def md4(self) -> None:
+        print("Método MD4")
