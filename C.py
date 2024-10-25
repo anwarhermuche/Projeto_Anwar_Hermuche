@@ -9,3 +9,6 @@ class C:
 
     def mc2(self) -> None:
         print("Método MC2")
+
+    def mc3(self) -> None:
+        print("Método MC3")
